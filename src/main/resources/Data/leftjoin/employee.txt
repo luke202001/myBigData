@@ -1,0 +1,10 @@
+cat employee.txt
+jd,david
+jd,mike
+tb,mike
+tb,lucifer
+elong,xiaoming
+elong,ali
+tengxun,xiaoming
+tengxun,lilei
+xxx,aaa
